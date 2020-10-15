@@ -1,12 +1,17 @@
 ## Angular e Spring - curso Algaworks
 
 
+## Angular e Spring - curso Algaworks
+
+
 #  Angular CLI
 * Instalação 
+
   [Angular CLI](https://cli.angular.io/)
+  
   [Angular Material](https://material.angular.io/)
+  
   [PrimeNG](https://www.primefaces.org/primeng/)
-  [Fonte Awesome](https://fontawesome.com/)
 
 * Verificar versão
   
@@ -90,8 +95,3 @@
 - [x] Instalando e criando projeto
 - [X] Data binding
 - [x] Introdução às diretivas
-
-
-  
-
-
