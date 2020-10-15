@@ -1,9 +1,5 @@
 ## Angular e Spring - curso Algaworks
 
-
-## Angular e Spring - curso Algaworks
-
-
 #  Angular CLI
 * Instalação 
 
