@@ -40,6 +40,11 @@
     ```sh
       $ ng g c bem-vindo --spec=false
     ```
+    angular 10
+    ```sh
+      $ ng g c bem-vindo --skipTests=true
+    ```
+    
 
 * Instalar bootstrap
 
